@@ -1,3 +1,18 @@
+---
+title: AOT AI
+emoji: 👁
+colorFrom: indigo
+colorTo: gray
+sdk: gradio
+sdk_version: 5.34.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: 'Interactive multimodal AI app '
+---
+
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 Anime Fanfiction Generator
 This project is a local web app that creates anime-style fanfiction scenes (inspired by Attack on Titan) using a user's prompt and a local AI model.
 
