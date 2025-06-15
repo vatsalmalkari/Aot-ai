@@ -1,0 +1,438 @@
+2025-06-12 19:04:18.132337
+Mode: Summarization
+Prompt: a man in a suit and white shirt
+
+Context:
+a man in a suit and white shirt
+
+Generated:
+You are a summarization assistant. Summarize the following input:
+
+a man in a suit and white shirt
+
+Summary:
+
+A man in a suit and white shirt walks into a room.
+
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the given text material in a single sentence?
+================================================================================
+
+2025-06-12 19:05:03.517127
+Mode: Summarization
+Prompt: a man in a suit and white shirt
+
+Context:
+a man in a suit and white shirt
+
+Generated:
+You are a summarization assistant. Summarize the following input:
+
+a man in a suit and white shirt
+
+Summary:
+
+A man in a suit and white shirt walks into a room.
+
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the given text material in a single sentence?
+================================================================================
+
+2025-06-12 21:32:23.424744
+Mode: Summarization | Style: Concise
+Prompt: what does erwin tell levi?
+
+Context:
+what does erwin tell levi?
+
+Generated:
+You are a summarization assistant. Summarize the following input:
+
+what does erwin tell levi?
+
+Summary:
+Levi is told that Erwin is a good friend and that he should be proud of him.
+================================================================================
+
+2025-06-12 21:54:58.693607
+Mode: Summarization | Style: Narrative
+Prompt (User Input): tell me about connie and erwin
+
+Image Caption: 
+
+Retrieved Context:
+tell me about connie and erwin
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+tell me about connie and erwin
+
+Summary:
+
+Generated Answer:
+
+Connie is a woman who loves to travel, while Erwin is a man who loves to cook. They met at a party and started dating.
+================================================================================
+
+2025-06-12 21:55:23.237534
+Mode: Summarization | Style: Narrative
+Prompt (User Input): tell me about connie and erwin
+
+Image Caption: the facebook page with the new facebook page highlighted
+
+Retrieved Context:
+the facebook page with the new facebook page highlighted
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+the facebook page with the new facebook page highlighted
+
+Summary:
+
+Generated Answer:
+
+The Facebook page with the new Facebook page highlighted.
+================================================================================
+
+2025-06-12 21:55:50.942482
+Mode: Summarization | Style: Narrative
+Prompt (User Input): 
+
+Image Caption: the screen of the website for the bbc show
+
+Retrieved Context:
+the screen of the website for the bbc show
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+the screen of the website for the bbc show
+
+Summary:
+
+Generated Answer:
+
+The screen of the BBC show is displayed on the website.
+================================================================================
+
+2025-06-13 00:19:54.337708
+Mode: Summarization | Style: 
+Prompt (User Input): tell me about the story of eren yeager and levi ackerman. what made them special
+
+Image Caption: 
+
+Retrieved Context:
+tell me about the story of eren yeager and levi ackerman. what made them special
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+tell me about the story of eren yeager and levi ackerman. what made them special
+
+Summary:
+
+Generated Answer:
+
+Eren Yeager and Levi Ackerman were two of the most popular characters in the video game series, Final Fantasy VII. They were both protagonists who had unique personalities and abilities that set them apart from other characters in the game. Eren was a skilled fighter with a strong sense of justice, while Levi was a brilliant strategist with a deep understanding of the game's mechanics. Their friendship and partnership helped to shape the game's narrative and make it more engaging for players.
+================================================================================
+
+2025-06-13 00:27:53.256596
+Mode: Summarization | Style: 
+Prompt (User Input): eren and levi are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series.
+
+
+Image Caption: 
+
+Retrieved Context:
+eren and levi are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series.
+
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+eren and levi are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series.
+
+
+Summary:
+
+Generated Answer:
+
+The two main characters in the series, eren and levi, have complementary skills that make them an effective team. Their passion for the series drives their work together, leading to success.
+================================================================================
+
+2025-06-13 00:34:25.973706
+Mode: Summarization | Style: 
+Prompt (User Input): eren and erwin are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series. one is a king one is weak
+
+Image Caption: 
+
+Retrieved Context:
+eren and erwin are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series. one is a king one is weak
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+eren and erwin are strong warriors with complementary skills; eren has passion, levi has control. their teamwork defines the series. one is a king one is weak
+
+Summary:
+
+Generated Answer:
+The two main characters in the story, Erwin and Eren, have different strengths that complement each other's abilities. They work well together as a team, leading to the development of a unique fighting style.
+================================================================================
+
+2025-06-13 00:38:52.240063
+Mode: Summarization | Style: 
+Prompt (User Input): erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Image Caption: 
+
+Retrieved Context:
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Summary:
+
+Generated Answer:
+Erwin is the leader of the Scouts, while Levi is the Captain. They are both incredible, but Levi has a weakness that Erwin wants to overcome.
+================================================================================
+
+2025-06-13 00:39:22.836260
+Mode: Summarization | Style: 
+Prompt (User Input): erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Image Caption: 
+
+Retrieved Context:
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans
+
+Summary:
+
+Generated Answer:
+Erwin is the leader of the Scouts, while Levi is the Captain. They are both incredible, but Levi has a weakness that Erwin wants to overcome.
+================================================================================
+
+2025-06-13 00:39:53.007630
+Mode: Summarization | Style: 
+Prompt (User Input): erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans. can you tell me why eren is dumb
+
+Image Caption: 
+
+Retrieved Context:
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans. can you tell me why eren is dumb
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans. can you tell me why eren is dumb
+
+Summary:
+
+Generated Answer:
+Erwin is the leader of the Scouts, while Levi is the Captain. They are both incredible, but Levi has a weakness that Erwin wants to overcome. Eren is dumb because he doesn't understand the importance of saving Eren while Erwin wants to finish Titans.
+================================================================================
+
+2025-06-13 00:40:48.032301
+Mode: Summarization | Style: 
+Prompt (User Input): erwin is the leader of the scouts and levi is the captain. they are both amazing but have flaws. levi wants to save eren whil erwin wants to finish titans. can you tell me why levi is dumb. why is mikasa cool
+
+Image Caption: arafed man in a suit and white shirt smiling for a picture
+
+Retrieved Context:
+arafed man in a suit and white shirt smiling for a picture
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+arafed man in a suit and white shirt smiling for a picture
+
+Summary:
+
+Generated Answer:
+
+The person is wearing a suit and white shirt, smiling for a picture.
+================================================================================
+
+2025-06-13 12:46:26.967762
+Mode: Summarization | Style: 
+Prompt (User Input): how does hange's personality change throughout the show? give examples
+
+Image Caption: 
+
+Retrieved Context:
+how does hange's personality change throughout the show? give examples
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+how does hange's personality change throughout the show? give examples
+
+Summary:
+
+Generated Answer:
+
+Hange's personality changes throughout the show, from being a stoic and reserved character to becoming more outgoing and confident. She becomes more assertive in her interactions with others and begins to open up about her feelings. Hange's transformation is a significant part of the show's plot and adds depth to her character.
+================================================================================
+
+2025-06-13 15:53:22.191073
+Mode: Summarization | Style: 
+Prompt (User Input): tell me the story of armin artlet? what makes him so special. especially tell me about season 3 armin
+
+Image Caption: 
+
+Retrieved Context:
+tell me the story of armin artlet? what makes him so special. especially tell me about season 3 armin
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+tell me the story of armin artlet? what makes him so special. especially tell me about season 3 armin
+
+Summary:
+
+Generated Answer:
+
+Armin Artlet is a character in the TV show "The Crown". He is portrayed by actor Ben Daniels. In season three, Armin's story focuses on his relationship with Princess Margaret and their time together at Balmoral Castle. The episode explores Armin's struggles with addiction and his eventual redemption. The summary highlights key moments from the episode, including Armin's relationship with Margaret and his struggle with alcoholism.
+Metrics: ROUGE-L: 0.0260
+================================================================================
+
+2025-06-13 15:56:28.879415
+Mode: Summarization | Style: 
+Prompt (User Input): so zeke thought that grisha killed the founding titan and ate it but it was actually eren who did that. eren is the master manipulator. eren is the best written protagonist.
+
+Image Caption: 
+
+Retrieved Context:
+so zeke thought that grisha killed the founding titan and ate it but it was actually eren who did that. eren is the master manipulator. eren is the best written protagonist.
+
+Full Prompt sent to LLM:
+You are a summarization assistant. Summarize the following input:
+
+so zeke thought that grisha killed the founding titan and ate it but it was actually eren who did that. eren is the master manipulator. eren is the best written protagonist.
+
+Summary:
+
+Generated Answer:
+
+
+So, Zeke thought that Grisha killed the Founding Titan and ate it. However, it was actually Eren who did that. Eren is the master manipulator. Eren is the best written protagonist.
+Metrics: ROUGE-L: 0.2000
+================================================================================
+
+2025-06-13 16:30:23.996863
+Mode: Summarization | Style: 
+Prompt: Eren joins the Special Operations Squad of the Scout Regiment and is taken to an old Scout base where they will prepare for the upcoming scouting mission. He meets his squadmates and learns of the Titan research performed by Section Commander Hange.
+
+The next morning, the Scouts learn that Sawney and Beane, Hange's Titan test subjects, have been killed. As the Scouts wonder who is responsible, Commander Erwin asks Eren who the true enemy is.
+
+Summary
+With Eren now being an official member of the Scout Regiment, he is escorted to their former HQ. Riding horses to get there, Oruo Bozad explains to Eren that it is in fact an old castle they remodeled. In the end, it ended up being useless for the Scout Regiment, but it will now serve as a hideout for Eren. Afterward, Oruo attempts to intimidate Eren, but thanks to his horse stepping on a rock, he bites his own tongue, much to Eren's startle.
+
+Petra scolds Oluo
+Petra scolds Oruo
+
+Now at the HQ, Petra Rall scolds Oruo for talking so much while riding a horse, but Oruo says that first impressions are important, thinking that Eren was scared, but Petra states that Eren was probably just surprised to see Oruo's silly action. She then tells him to stop imitating Levi. Nearby, Eren is watching all of this, knowing that they are the members of Levi's Special Operations Squad, the elite soldiers that will kill him if he goes berserk.
+
+Eld Gin and Gunther Schultz then observe the castle, noticing that it has not been maintained at all while abandoned. Viewing dirt as a serious problem, Levi orders everyone to start cleaning up immediately. As Eren reports to Levi that the upper floor has been cleaned, he finds out that he will once again sleep in the basement, this being one of the rules decided by the higher-ups. Surprised to see that Levi follows the rules without question, Eren confronts Petra who explains that Levi once used to be a thug, until he was taken by Erwin Smith and joined the Scout Regiment. Levi then returns, telling Eren to redo the cleaning.
+
+Elsewhere, Miche discusses the upcoming mission with Erwin. Erwin tells him that they have to quickly prove Eren's usefulness to the central, but Miche sees through this. Praising Miche for his sharp "nose," Erwin states that he will tell him everything when the time comes.
+
+Hange has found a listener
+Hange has found a listener
+
+The Special Ops Squad also talks about the operation, surprised to hear that even new graduates will participate. Eld states that it is unfortunate that they had lost the route to retake Wall Maria, but at the same time, he realizes the new hope, as everyone looks at Eren. Eld tries to question him, but they quickly find out that they will not learn more than the reports already contain. At that moment, Hange arrives to ask Eren to participate in tomorrow's experiment. When Eren asks about their experiments, the squad stands up to leave, knowing what is to come, while Hange is happy to have found someone who will listen to them.
+
+Hange's experiment
+Hange's experiment
+
+Hange then begins explaining about the two Titans they have captured and the tests being done to them, including attempts to communicate. The Titans were named Sawney and Beane, after a human tribe that used to eat humans. The experiment continued as they tried to deprive the Titans of sunlight. Afterward, they tested whether the Titans have any other vulnerabilities by directly damaging their bodies, which caused pain for Hange as well. Hearing Hange talking about the Titans like that, Eren questions how is it that Hange is able to stay so cheerful around the Titans. Hange explains that they used to hate them as well, but after a certain incident, they realized the mystery of Titans' bodies and tried to look at them from a different point of view since then. Seeing that not only Hange, but the whole Scout Regiment are people who desire change, Eren asks Hange to tell him more about their experiments, however, even after a whole night, he seemingly learns nothing new.
+
+Erwin's mysterious question
+Erwin asks a strange question
+
+That is when a soldier arrives to report that both Titans were somehow killed. Everyone rushes to the place just to find evaporating skeletons of two Titans, much to Hange's agony. Apparently, the culprit is a soldier who then used omni-directional mobility gear to escape, as Eld and Gunther note, as well as a lookout. Oluo then comments on Hange's agony much to the disgust of Petra, who nudges him. Eren begins to wonder how it happened, but Levi tells Eren that they should go now since the Military Police will take care of it. Erwin then approaches Eren and asks him about what he can see there and who is the enemy. This leaves Eren confused, so Erwin apologizes for asking odd questions and leaves.
+
+Image Caption: 
+
+Context:
+Eren joins the Special Operations Squad of the Scout Regiment and is taken to an old Scout base where they will prepare for the upcoming scouting mission. He meets his squadmates and learns of the Titan research performed by Section Commander Hange.
+
+The next morning, the Scouts learn that Sawney and Beane, Hange's Titan test subjects, have been killed. As the Scouts wonder who is responsible, Commander Erwin asks Eren who the true enemy is.
+
+Summary
+With Eren now being an official member of the Scout Regiment, he is escorted to their former HQ. Riding horses to get there, Oruo Bozad explains to Eren that it is in fact an old castle they remodeled. In the end, it ended up being useless for the Scout Regiment, but it will now serve as a hideout for Eren. Afterward, Oruo attempts to intimidate Eren, but thanks to his horse stepping on a rock, he bites his own tongue, much to Eren's startle.
+
+Petra scolds Oluo
+Petra scolds Oruo
+
+Now at the HQ, Petra Rall scolds Oruo for talking so much while riding a horse, but Oruo says that first impressions are important, thinking that Eren was scared, but Petra states that Eren was probably just surprised to see Oruo's silly action. She then tells him to stop imitating Levi. Nearby, Eren is watching all of this, knowing that they are the members of Levi's Special Operations Squad, the elite soldiers that will kill him if he goes berserk.
+
+Eld Gin and Gunther Schultz then observe the castle, noticing that it has not been maintained at all while abandoned. Viewing dirt as a serious problem, Levi orders everyone to start cleaning up immediately. As Eren reports to Levi that the upper floor has been cleaned, he finds out that he will once again sleep in the basement, this being one of the rules decided by the higher-ups. Surprised to see that Levi follows the rules without question, Eren confronts Petra who explains that Levi once used to be a thug, until he was taken by Erwin Smith and joined the Scout Regiment. Levi then returns, telling Eren to redo the cleaning.
+
+Elsewhere, Miche discusses the upcoming mission with Erwin. Erwin tells him that they have to quickly prove Eren's usefulness to the central, but Miche sees through this. Praising Miche for his sharp "nose," Erwin states that he will tell him everything when the time comes.
+
+Hange has found a listener
+Hange has found a listener
+
+The Special Ops Squad also talks about the operation, surprised to hear that even new graduates will participate. Eld states that it is unfortunate that they had lost the route to retake Wall Maria, but at the same time, he realizes the new hope, as everyone looks at Eren. Eld tries to question him, but they quickly find out that they will not learn more than the reports already contain. At that moment, Hange arrives to ask Eren to participate in tomorrow's experiment. When Eren asks about their experiments, the squad stands up to leave, knowing what is to come, while Hange is happy to have found someone who will listen to them.
+
+Hange's experiment
+Hange's experiment
+
+Hange then begins explaining about the two Titans they have captured and the tests being done to them, including attempts to communicate. The Titans were named Sawney and Beane, after a human tribe that used to eat humans. The experiment continued as they tried to deprive the Titans of sunlight. Afterward, they tested whether the Titans have any other vulnerabilities by directly damaging their bodies, which caused pain for Hange as well. Hearing Hange talking about the Titans like that, Eren questions how is it that Hange is able to stay so cheerful around the Titans. Hange explains that they used to hate them as well, but after a certain incident, they realized the mystery of Titans' bodies and tried to look at them from a different point of view since then. Seeing that not only Hange, but the whole Scout Regiment are people who desire change, Eren asks Hange to tell him more about their experiments, however, even after a whole night, he seemingly learns nothing new.
+
+Erwin's mysterious question
+Erwin asks a strange question
+
+That is when a soldier arrives to report that both Titans were somehow killed. Everyone rushes to the place just to find evaporating skeletons of two Titans, much to Hange's agony. Apparently, the culprit is a soldier who then used omni-directional mobility gear to escape, as Eld and Gunther note, as well as a lookout. Oluo then comments on Hange's agony much to the disgust of Petra, who nudges him. Eren begins to wonder how it happened, but Levi tells Eren that they should go now since the Military Police will take care of it. Erwin then approaches Eren and asks him about what he can see there and who is the enemy. This leaves Eren confused, so Erwin apologizes for asking odd questions and leaves.
+
+Prompt Sent:
+You are a summarization assistant. Summarize the following input:
+
+Eren joins the Special Operations Squad of the Scout Regiment and is taken to an old Scout base where they will prepare for the upcoming scouting mission. He meets his squadmates and learns of the Titan research performed by Section Commander Hange.
+
+The next morning, the Scouts learn that Sawney and Beane, Hange's Titan test subjects, have been killed. As the Scouts wonder who is responsible, Commander Erwin asks Eren who the true enemy is.
+
+Summary
+With Eren now being an
+
+Summary:
+
+Output:
+The Scouts are on their way to the Titan research facility when they receive a distress signal from the base. They arrive to find the facility in ruins and the Titan research team dead. Commander Erwin orders them to investigate and finds out that the Titan research was conducted by Section Commander Hange. She has been experimenting with her Titan and has caused a catastrophic event. The Scouts must stop Hange before she can release the Titan's power.
+================================================================================
+
+2025-06-13 16:31:47.126326
+Mode: Summarization | Style: 
+Prompt: It is essential to adhere to the specified language when crafting responses, ensuring that no other languages are utilized. Additionally, it is important to consider any provided modifiers while formulating a response to a query, although these modifiers should not be referenced directly in the final output. The objective is to create a detailed and comprehensive paragraph that thoroughly addresses the topic at hand, enhancing clarity and understanding for the reader. Each response should be structured as a single paragraph unless multiple paragraphs are necessary, in which case they should be sequentially numbered. It is crucial to maintain a formal tone throughout the writing, ensuring that the content is presented in a professional manner. Furthermore, all responses must be exclusively in English, with no inclusion of other languages.
+
+
+
+Image Caption: 
+
+Context:
+It is essential to adhere to the specified language when crafting responses, ensuring that no other languages are utilized. Additionally, it is important to consider any provided modifiers while formulating a response to a query, although these modifiers should not be referenced directly in the final output. The objective is to create a detailed and comprehensive paragraph that thoroughly addresses the topic at hand, enhancing clarity and understanding for the reader. Each response should be structured as a single paragraph unless multiple paragraphs are necessary, in which case they should be sequentially numbered. It is crucial to maintain a formal tone throughout the writing, ensuring that the content is presented in a professional manner. Furthermore, all responses must be exclusively in English, with no inclusion of other languages.
+
+
+
+Prompt Sent:
+You are a summarization assistant. Summarize the following input:
+
+It is essential to adhere to the specified language when crafting responses, ensuring that no other languages are utilized. Additionally, it is important to consider any provided modifiers while formulating a response to a query, although these modifiers should not be referenced directly in the final output. The objective is to create a detailed and comprehensive paragraph that thoroughly addresses the topic at hand, enhancing clarity and understanding for the reader. Each response should be structured as a single paragraph unless multiple paragraphs are necessary, in which case they should be sequentially numbered. It
+
+Summary:
+
+Output:
+
+
+The given text material is an instructional piece on how to write effective responses to queries. The instructions cover aspects such as selecting appropriate language, avoiding non-specific language, and considering modifiers. The objective is to provide a detailed and comprehensive response that effectively addresses the topic at hand, enhancing clarity and understanding for the reader. The structure of each response should follow a single paragraph unless multiple paragraphs are necessary, with each paragraph numbered sequentially.
+================================================================================
+

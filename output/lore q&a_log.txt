@@ -1,0 +1,330 @@
+2025-06-12 17:43:08.848430
+Mode: Lore Q&A
+Prompt: tell me the origin of titans
+
+Context:
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. A young boy and his friend do what they can to save the boy's mother, trapped below the debris of their fallen house, but they are forced to flee when a disturbing Titan appears. The boy watches as, before his eyes, the Titan picks her up and eats her..
+
+[Eren Yeager]
+He was a former member of the Scout Regiment and the main protagonist of Attack on Titan. He was the only son of Grisha and Carla Jaeger, the younger paternal half brother of Zeke Jaeger, and the last holder of the Attack Titan, Founding Titan, and the War Hammer Titan. Eren was born and raised in Shiganshina District, which is located on the southern edge of Wall Maria. He lived there until the year 845, when the Colossal and Armored Titans breached the Wall, allowing a flood of Titans to invade and destroy the city. During the incident, Eren witnessed his mother being murdered and eaten by a smiling Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the earth.
+
+[That Day: The Fall of Shiganshina, Part 2 (Season 1, Episode 2)]
+Titans continue to kill the citizens of Shiganshina as Eren, Mikasa, and Armin escape with their lives. After an Armored Titan breaks through the inner gate, Eren vows to kill all the Titans in the world. A year after Armin's grandfather perishes in an operation to retake Wall Maria, the three children join the military as part of the 104th Cadet Corps..
+
+[Reiner Braun]
+He is is the Eldian Vice Chief of the Warriors and the main protagonist of Attack on Titan from the Marleyan perspective. He is the illegitimate son of an Eldian mother and a Marleyan father who grew up in Liberio's internment zone. Eventually, he was selected as a child to become one of Marley's Warriors. From a young age, he inherited the power of the Armored Titan. In the year 845, he infiltrated Paradis Island alongside Bertholdt Hoover, Annie Leonhart, and Marcel Galliard as part of an operation to reclaim the Founding Titan. He joined the Scout Regiment after graduating 2nd in the 104th Cadet Corps..
+
+[Annie Leonhart]
+She is a graduate of the 104th Training Corps and former member of the Military Police Brigade. Her exceptional skills with swords and unarmed combat earned her the 4th rank, but she is also noted to be a lone wolf who struggles to work with others. She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve the Founding Titan, along with fellow Warriors Reiner Braun, Bertolt Hoover, and Marcel Galliard. As the Female Titan, she serves as a major antagonist prior to her defeat, at which point she crystallizes herself and is left in a comatose state. She was held underground in the custody of the Survey Corps for approximately four years before escaping during a battle between the Military, the Yeagerists, and the forces of Marley.
+
+Generated:
+You are an expert on Attack on Titan. Use the following context to answer the fan's question.
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. A young boy and his friend do what they
+
+Question: tell me the origin of titans
+Answer: titans are a group of giant humanoid creatures that have been living in the world for centuries. They are known for their strength and power, and their appearance is often described as that of a giant, humanoid creature with a head that is larger than a human's. The titans are believed to have originated from a group of ancient civilizations that once ruled the world. They are said to have been created by a powerful force that destroyed their civilization, leaving behind only the titans. The titans are feared and respected by humans, who view them as a symbol of strength and power.
+================================================================================
+
+2025-06-12 17:44:04.594059
+Mode: Lore Q&A
+Prompt: tell me the origin of titans
+
+Context:
+[Image]: a man with long hair and a hoodie
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. A young boy and his friend do what they can to save the boy's mother, trapped below the debris of their fallen house, but they are forced to flee when a disturbing Titan appears. The boy watches as, before his eyes, the Titan picks her up and eats her..
+
+[Eren Yeager]
+He was a former member of the Scout Regiment and the main protagonist of Attack on Titan. He was the only son of Grisha and Carla Jaeger, the younger paternal half brother of Zeke Jaeger, and the last holder of the Attack Titan, Founding Titan, and the War Hammer Titan. Eren was born and raised in Shiganshina District, which is located on the southern edge of Wall Maria. He lived there until the year 845, when the Colossal and Armored Titans breached the Wall, allowing a flood of Titans to invade and destroy the city. During the incident, Eren witnessed his mother being murdered and eaten by a smiling Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the earth.
+
+[That Day: The Fall of Shiganshina, Part 2 (Season 1, Episode 2)]
+Titans continue to kill the citizens of Shiganshina as Eren, Mikasa, and Armin escape with their lives. After an Armored Titan breaks through the inner gate, Eren vows to kill all the Titans in the world. A year after Armin's grandfather perishes in an operation to retake Wall Maria, the three children join the military as part of the 104th Cadet Corps..
+
+[Reiner Braun]
+He is is the Eldian Vice Chief of the Warriors and the main protagonist of Attack on Titan from the Marleyan perspective. He is the illegitimate son of an Eldian mother and a Marleyan father who grew up in Liberio's internment zone. Eventually, he was selected as a child to become one of Marley's Warriors. From a young age, he inherited the power of the Armored Titan. In the year 845, he infiltrated Paradis Island alongside Bertholdt Hoover, Annie Leonhart, and Marcel Galliard as part of an operation to reclaim the Founding Titan. He joined the Scout Regiment after graduating 2nd in the 104th Cadet Corps..
+
+[Annie Leonhart]
+She is a graduate of the 104th Training Corps and former member of the Military Police Brigade. Her exceptional skills with swords and unarmed combat earned her the 4th rank, but she is also noted to be a lone wolf who struggles to work with others. She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve the Founding Titan, along with fellow Warriors Reiner Braun, Bertolt Hoover, and Marcel Galliard. As the Female Titan, she serves as a major antagonist prior to her defeat, at which point she crystallizes herself and is left in a comatose state. She was held underground in the custody of the Survey Corps for approximately four years before escaping during a battle between the Military, the Yeagerists, and the forces of Marley.
+
+Generated:
+You are an expert on Attack on Titan. Use the following context to answer the fan's question.
+
+[Image]: a man with long hair and a hoodie
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. 
+
+Question: tell me the origin of titans
+Answer: The Titans are a race of beings that have been living on Earth for centuries. They are apex predators, and their power is unmatched. They have been living in peace for centuries, but that all changed when the Titans appeared.
+
+[Image]: a man with a hoodie
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 2 (Season 1, Episode 2)]
+The Titans have been a constant threat to humanity, and the Colossi have been the only ones who have been able to stop them. However, the Titans have become more powerful, and their numbers have grown.
+
+================================================================================
+
+2025-06-12 17:45:30.946816
+Mode: Lore Q&A
+Prompt: how would you survive a titan attack?
+
+Context:
+[Image]: a map of the united with the states highlighted in red
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. A young boy and his friend do what they can to save the boy's mother, trapped below the debris of their fallen house, but they are forced to flee when a disturbing Titan appears. The boy watches as, before his eyes, the Titan picks her up and eats her..
+
+[Annie Leonhart]
+She is a graduate of the 104th Training Corps and former member of the Military Police Brigade. Her exceptional skills with swords and unarmed combat earned her the 4th rank, but she is also noted to be a lone wolf who struggles to work with others. She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve the Founding Titan, along with fellow Warriors Reiner Braun, Bertolt Hoover, and Marcel Galliard. As the Female Titan, she serves as a major antagonist prior to her defeat, at which point she crystallizes herself and is left in a comatose state. She was held underground in the custody of the Survey Corps for approximately four years before escaping during a battle between the Military, the Yeagerists, and the forces of Marley.
+
+[That Day: The Fall of Shiganshina, Part 2 (Season 1, Episode 2)]
+Titans continue to kill the citizens of Shiganshina as Eren, Mikasa, and Armin escape with their lives. After an Armored Titan breaks through the inner gate, Eren vows to kill all the Titans in the world. A year after Armin's grandfather perishes in an operation to retake Wall Maria, the three children join the military as part of the 104th Cadet Corps..
+
+[Reiner Braun]
+He is is the Eldian Vice Chief of the Warriors and the main protagonist of Attack on Titan from the Marleyan perspective. He is the illegitimate son of an Eldian mother and a Marleyan father who grew up in Liberio's internment zone. Eventually, he was selected as a child to become one of Marley's Warriors. From a young age, he inherited the power of the Armored Titan. In the year 845, he infiltrated Paradis Island alongside Bertholdt Hoover, Annie Leonhart, and Marcel Galliard as part of an operation to reclaim the Founding Titan. He joined the Scout Regiment after graduating 2nd in the 104th Cadet Corps..
+
+[Assault (Season 4 Episode 7)]
+The Scout Regiment and the Warriors face off as the Beast Titan joins the battle. Though Pieck is initially optimistic about Marley's chances, the arrival of Armin Arlelt's Colossal Titan changes the flow of combat when it wipes out all the military reinforcements in Liberio's port. Porco Galliard impulsively splits away from the group to attack Eren Jaeger, giving Levi Ackermann the opportunity to topple the Beast Titan. Pieck is soon overwhelmed by the Scouts and is nearly killed before Falco Grice intervenes. Galliard manages to rip off one of the Attack Titan's arms and swipes at its head, but Eren blocks it with Lara Tybur's crystal, which is unexpectedly scratched by the Jaw Titan's claws. When the Scouts' airship arrives to extract their soldiers, Galliard attempts to switch targets only to be caught by Mikasa Ackermann, who severs his Titan's legs. Eren removes the Jaw Titan's remaining limbs before shoving Lara's crystal between its jaws. He then forces its jaws closed to crack the crystal and swallow the blood and spinal fluid belonging to the War Hammer Titan. Realizing that Galliard is next to be eaten, Falco and Gabi Braun begin shouting for Reiner, who wakes up in time to transform and distract Eren..
+
+Generated:
+You are an expert on Attack on Titan. Use the following context to answer the fan's question.
+
+[Image]: a map of the united with the states highlighted in red
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan
+
+Question: how would you survive a titan attack?
+Answer: I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the Titans to my advantage. I would use my knowledge of the
+================================================================================
+
+2025-06-12 19:05:49.144665
+Mode: Lore Q&A
+Prompt: summarize attack on titan episode 3
+
+Context:
+[Image]: a man in a suit and white shirt
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and breaks the Wall. A young boy and his friend do what they can to save the boy's mother, trapped below the debris of their fallen house, but they are forced to flee when a disturbing Titan appears. The boy watches as, before his eyes, the Titan picks her up and eats her..
+
+[Reiner Braun]
+He is is the Eldian Vice Chief of the Warriors and the main protagonist of Attack on Titan from the Marleyan perspective. He is the illegitimate son of an Eldian mother and a Marleyan father who grew up in Liberio's internment zone. Eventually, he was selected as a child to become one of Marley's Warriors. From a young age, he inherited the power of the Armored Titan. In the year 845, he infiltrated Paradis Island alongside Bertholdt Hoover, Annie Leonhart, and Marcel Galliard as part of an operation to reclaim the Founding Titan. He joined the Scout Regiment after graduating 2nd in the 104th Cadet Corps..
+
+[Eren Yeager]
+He was a former member of the Scout Regiment and the main protagonist of Attack on Titan. He was the only son of Grisha and Carla Jaeger, the younger paternal half brother of Zeke Jaeger, and the last holder of the Attack Titan, Founding Titan, and the War Hammer Titan. Eren was born and raised in Shiganshina District, which is located on the southern edge of Wall Maria. He lived there until the year 845, when the Colossal and Armored Titans breached the Wall, allowing a flood of Titans to invade and destroy the city. During the incident, Eren witnessed his mother being murdered and eaten by a smiling Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the earth.
+
+[Scream (Season 2 Episode 12)]
+After Hannes is eaten by the Titan which killed Eren's mother, Eren suddenly unleashes an incredible power upon the Titan, causing the other Titans to swarm it and tear it to pieces before chasing Reiner and Bertholdt away. For her own reasons, Ymir leaves the Scouts and retreats with the Warriors. The Scouts later conclude that the Titans which invaded Wall Rose were in fact, the human citizens of Ragako. As Eren devotes himself to discovering how to use his newfound power, a recovering Erwin concludes that the truths of the world will soon be known..
+
+[Annie Leonhart]
+She is a graduate of the 104th Training Corps and former member of the Military Police Brigade. Her exceptional skills with swords and unarmed combat earned her the 4th rank, but she is also noted to be a lone wolf who struggles to work with others. She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve the Founding Titan, along with fellow Warriors Reiner Braun, Bertolt Hoover, and Marcel Galliard. As the Female Titan, she serves as a major antagonist prior to her defeat, at which point she crystallizes herself and is left in a comatose state. She was held underground in the custody of the Survey Corps for approximately four years before escaping during a battle between the Military, the Yeagerists, and the forces of Marley.
+
+Generated:
+You are an expert on Attack on Titan. Use the following context to answer the fan's question.
+
+[Image]: a man in a suit and white shirt
+
+[To You, in 2000 Years: The Fall of Shiganshina, Part 1 (Season 1, Episode 1)]
+One hundred years after the appearance of the Titans, humanity receives a grim reminder of the threat that the Titans pose. Under the belief that they were safe behind the Walls, a Colossal Titan peers over the Walls and 
+
+Question: summarize attack on titan episode 3
+Answer: summarize attack on titan episode 3
+================================================================================
+
+2025-06-12 19:42:08.083285
+Mode: Lore Q&A
+Prompt: tell me erwin lore and levi
+
+Context:
+[Midnight Sun (Season 3 Episode 18)]
+Zeke tells Eren Jaeger that someday he will come back to rescue him. Eren then realizes that Zeke strongly resembles his father, Grisha. Levi Ackermann arrives to pursue Zeke with Eren's remaining weapons, when Eren suddenly realizes that Armin Arlelt is breathing. Eren asks Levi for the Titan injection so they can save Armin by having him eat the incapacitated Bertholdt Hoover. However, Floch arrives with a dying Erwin Smith and request that the injection be used on Erwin. After losing Reiner Braun to the Cart Titan, Hange Zoë and the rest of Levi Squad arrive to find Eren and Mikasa Ackermann struggling with Levi for the injection, either with words or by force. Hange eventually manages to talk down Mikasa and Levi has everyone clear out so he can use the injection on Erwin. However, when Erwin begins muttering a childhood memory, Levi decides it would be kinder to let him pass on. He gives the injection to Armin who eats Bertholdt and emerges from his Pure Titan as his friends gather around..
+
+[Erwin Smith]
+He was the 13th commander of the Scout Regiment. Discerning, intelligent, and widely respected, Erwin was an able commander. While he cared deeply for his men, he did not hesitate to sacrifice them for the good and prosperity of mankind, and his men have proven more than willing to stake their lives at his order. Erwin developed the Long-Distance Enemy Scouting Formation. Due to uncertainty about his future, he later named Hange Zoë as his successor..
+
+[Levi Ackerman]
+He is often formally referred to as Captain Levi, is the squad captain of the Special Operations Squad within the Scout Regiment, and is said to be humanity's strongest soldier..
+
+[Female Titan: The 57th Exterior Scouting Mission, Part 1 (Season 1, Episode 17)]
+Erwin's long distance enemy scouting formation proceeds towards Shiganshina as expected until Armin encounters a Female Titan. Joining Reiner and Jean, the three confront the Titan to buy the commander time. Reiner comes close to death in the Female's grip, but narrowly escapes with his life. Afterward, the Female Titan changes direction, heading for Eren's position in the formation..
+
+[Sin (Season 3 Episode 6)]
+Eren Jaeger learns the history of how he obtained his Titan and how five years ago his father, Grisha Jaeger, slaughtered most of the Reiss family in order to obtain their power, which was held by Frieda Reiss, the elder half-sister of Historia Reiss. Meanwhile, the military learns that certain bloodlines are immune to the "Scream" that can alter humanity's memories and that if they do not rescue Eren they may soon forget their coup d'état ever happened. Squad Levi arrives at the rural chapel above the underground one where Eren is being held. They prepare to attack while the Anti-Personnel Control Squad waits for them below..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Midnight Sun (Season 3 Episode 18)]
+Zeke tells Eren Jaeger that someday he will come back to rescue him. Eren then realizes that Zeke strongly resembles his father, Grisha. Levi Ackermann arrives to pursue Zeke with Eren's remaining weapons, when 
+
+Question: tell me erwin lore and levi
+Answer: erwin is a lore expert on the anime series "midnight sun". He has a deep understanding of the characters and their backstories, as well as their relationships with each other. He has also researched the history of the anime series, including the origins of the characters and their motivations. Levi is a lore expert on the anime series "midnight sun". He has a deep understanding of the characters and their backstories, as well as their relationships with each other. He has also researched the history of the anime series, including the origins of the characters and their motivations.
+================================================================================
+
+2025-06-12 20:44:38.172904
+Mode: Lore Q&A
+Prompt: sasha and jean and connie story
+
+Context:
+[Sasha Braus]
+She was a member of the Scout Regiment and one of the few former members of the 104th Cadet Corps, of which she was ranked 9th out of the top 10. A compulsive food hoarder with an overly polite way of speech, Sasha originated from Dauper, a village in the southern territory of Wall Rose..
+
+[Assault on Stohess part 2]
+Recalling the meeting when the Scouts suspect the Female Titan's identity, Eren is too hesitant to transform into his Titan to fight Annie. Devising a plan to distract her, Mikasa and Armin split up to confront Annie, but Eren is crushed under the collapsing tunnel. The Scout Regiment engages in battle with the Female Titan while Jean and Armin attempt to convince Eren to fight. When Eren finally finds his resolve, he transforms into his Titan form and clashes with the Female Titan..
+
+[Night Of The End]
+The portion of the Scout Regiment still led by Hange Zoë shares an uneasy campfire with Theo Magath and the remaining Warriors. The two sides are suspicious of each other given their respective histories and Annie Leonhart's skepticism that Eren Jaeger's friends will be able to kill him in the event that diplomacy fails. Yelena tries to fan the flames of that division, but largely fails until she brings up the death of Marco Bodt. Reiner Braun takes responsibility for that, but overemphasizes his feelings of guilt to Jean Kirschtein, who does not want to hear how awful Reiner feels about it. He begins to beat down Reiner, only to hit Gabi Braun by accident when she tries to protect her cousin. Gabi understands that Jean has good reasons for hating the Warriors, but pleads with him to help save her family in Liberio. Though he needs time to cool off, Jean agrees and the combined group heads towards the port where they expect to find a flying boat they can use to chase after Eren..
+
+[Assassins Bullet]
+Tired after many battles in Liberio, Eren Jaeger beats back a weary Reiner Braun before retreating with Mikasa Ackermann to the Scout Regiment's airship. As the Scouts retreat, Gabi Braun chases after them with Falco Grice trying to stop her. She manages to kill Lobov and figures out how to use his omni-directional mobility gear to reel herself up to the airship. Before Falco's brother Colt can stop them, Gabi retracts the wire, carrying both her and Falco up. Once on board she manages to shoot Sasha Braus before she and Falco are overwhelmed by the Scouts. After hearing her talk about carrying on Zeke Jaeger's will, Jean Kirschtein brings the two into another room where Zeke is regenerating from the mock battle he had with Levi Ackermann, revealing that Zeke was actually working with the Scouts. Everything had gone according to plan, barring a few miscalculations; specifically the two children. However, Hange Zoë is unhappy with Eren for forcing the Scouts to come to his aid, and when Sasha passes away from her wounds, Jean blames Eren's actions for her loss..
+
+[I'm Home (Season 2, Episode 2)]
+The Scout Regiment set out for Ehrmich to assist in the crisis, bringing Pastor Nick with them to try to convince him to talk. On the way, Armin theorizes about the Wall Titans. Earlier, whilst riding to alert citizens, Sasha remembers her past with her father after the fall of Wall Maria. At a village, Sasha saves a girl from a small Titan. She tells the child to run, and blinds the pursuing Titan to escape. She later reunites with her father, who had saved the child. Meanwhile, Conny arrives in his village, to see it in ruins. He rides to his house, but sees an immobile Titan laying atop it..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Sasha Braus]
+She was a member of the Scout Regiment and one of the few former members of the 104th Cadet Corps, of which she was ranked 9th out of the top 10. A compulsive food hoarder with an overly polite way of speech, Sasha originated from Dauper,
+
+Question: sasha and jean and connie story
+Answer: sasha and jean and connie story
+
+Sasha was a member of the Scout Regiment and one of the few former members of the 104th Cadet Corps, of which she was ranked 9th out of the top 10. A compulsive food hoarder with an overly polite way of speech, Sasha originated from Dauper, a small village in the countryside. She was a quiet and reserved person, but her love for food was unmatched.
+
+Sasha was a member of the Scout Regiment, a group of soldiers who were trained to fight in the trenches of the war. She was a skilled marksman, and her
+================================================================================
+
+2025-06-12 20:47:08.332558
+Mode: Lore Q&A
+Prompt: what did grisha tell zeke at the end?
+
+Context:
+[Memories Of The future]
+Zeke and Eren Jaeger travel through their father Grisha's memories as Zeke attempts to show Eren that Grisha only cared about him as a tool. However, he instead sees Grisha giving Eren freedom that Zeke never had as a child. Eren's determination and willingness to fight for his freedom are things he has always had on his own. When Grisha reacts to their presence in his memories, Zeke is surprised that Grisha has not forgotten about him. The day Wall Maria falls, they see Grisha confront Frieda Reiss in the underground chapel. Due to the vow to renounce war, she refuses to save the people of Wall Maria and insists the Eldians atone for their ancestors' crimes by accepting the world's hatred of them. Grisha reveals that he was led here by future memories he received through the Attack Titan. He plans to kill her to obtain the Founding Titan and end the royal bloodline, but falters because he does not want to murder children. Eren intervenes, and using the fact Grisha can hear him through his future memories, convinces Grisha to go ahead with the attack. Following the massacre, Grisha apologizes to Zeke, saying he was a terrible father, and asks him to stop Eren..
+
+[That Day]
+Grisha Jaeger accepts a beating from Kruger for himself and on behalf of his sister for going outside the Liberio Internment Zone without permission. Gross supposedly escorts her home, but her body turns up in the river. Grisha's rage is fueled when he sees how meekly his father accepts the falsehood given to him by the Marley Public Security officer. As an adult, Grisha joins the Restorationists, where he meets his future wife. Dina Fritz. Together they have a son, Zeke, who they plan to make a Warrior in order to infiltrate Marley's mission to recover the Founding Titan. However, they are betrayed by Zeke and are sent to Paradis Island where they will be turned into Pure Titans. Though Dina is transformed, Grisha is saved at the last moment by Kruger, who reveals himself to be the Owl, the secretive leader of the Restorationists. Kruger tells Grisha to watch as he uses a knife to cut himself and transform into a Titan..
+
+[Assassins Bullet]
+Tired after many battles in Liberio, Eren Jaeger beats back a weary Reiner Braun before retreating with Mikasa Ackermann to the Scout Regiment's airship. As the Scouts retreat, Gabi Braun chases after them with Falco Grice trying to stop her. She manages to kill Lobov and figures out how to use his omni-directional mobility gear to reel herself up to the airship. Before Falco's brother Colt can stop them, Gabi retracts the wire, carrying both her and Falco up. Once on board she manages to shoot Sasha Braus before she and Falco are overwhelmed by the Scouts. After hearing her talk about carrying on Zeke Jaeger's will, Jean Kirschtein brings the two into another room where Zeke is regenerating from the mock battle he had with Levi Ackermann, revealing that Zeke was actually working with the Scouts. Everything had gone according to plan, barring a few miscalculations; specifically the two children. However, Hange Zoë is unhappy with Eren for forcing the Scouts to come to his aid, and when Sasha passes away from her wounds, Jean blames Eren's actions for her loss..
+
+[Grisha Yeager]
+He was an Eldian doctor who originated from the Liberio internment zone in Marley, and was one of the Eldian Restorationists. He was sent on a mission from "the Owl" to infiltrate the Walls and take the Founding Titan from the Reiss family, and was given the power of the Attack Titan in order to do so. Grisha was taken inside the Walls by Keith Shadis, and settled in the Shiganshina District. He documented the details about Eldia, Marley, the Titans, and his past in three books that he hid in his basement. In Marley, he was married to Dina Fritz and had a son named Zeke. After being sent to Paradis Island, he re-married to Carla Yeager and had a second son, Eren Yeager..
+
+[Midnight Sun (Season 3 Episode 18)]
+Zeke tells Eren Jaeger that someday he will come back to rescue him. Eren then realizes that Zeke strongly resembles his father, Grisha. Levi Ackermann arrives to pursue Zeke with Eren's remaining weapons, when Eren suddenly realizes that Armin Arlelt is breathing. Eren asks Levi for the Titan injection so they can save Armin by having him eat the incapacitated Bertholdt Hoover. However, Floch arrives with a dying Erwin Smith and request that the injection be used on Erwin. After losing Reiner Braun to the Cart Titan, Hange Zoë and the rest of Levi Squad arrive to find Eren and Mikasa Ackermann struggling with Levi for the injection, either with words or by force. Hange eventually manages to talk down Mikasa and Levi has everyone clear out so he can use the injection on Erwin. However, when Erwin begins muttering a childhood memory, Levi decides it would be kinder to let him pass on. He gives the injection to Armin who eats Bertholdt and emerges from his Pure Titan as his friends gather around..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Memories Of The future]
+Zeke and Eren Jaeger travel through their father Grisha's memories as Zeke attempts to show Eren that Grisha only cared about him as a tool. However, he instead sees Grisha giving Eren freedom that Zeke never had as a child. Eren's determination and willingness 
+
+Question: what did grisha tell zeke at the end?
+Answer: grisha tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He tells zeke that he was always there for him, and that he never wanted to hurt him. He
+================================================================================
+
+2025-06-12 21:07:13.144446
+Mode: Lore Q&A
+Prompt: tell me about mikasa and levi's relationship
+
+Context:
+[Mikasa Ackerman]
+She is one of the two deuteragonists of the series. She is the last descendant of the Shogun clan that stayed on Paradis Island, thereby related to the Azumabito family, and holds significant political power in Hizuru. After her mother and father were murdered by bandits, Mikasa was rescued by Eren. She lived with him and his parents for approximately one year before the Fall of Wall Maria. Though she desires only to live a peaceful life with Eren, Mikasa chose to follow him into the military—where she is considered the best soldier among the 104th Cadet Corps. She later joined the Scout Regiment to continue following and protecting Eren..
+
+[Levi Ackerman]
+He is often formally referred to as Captain Levi, is the squad captain of the Special Operations Squad within the Scout Regiment, and is said to be humanity's strongest soldier..
+
+[Midnight Sun (Season 3 Episode 18)]
+Zeke tells Eren Jaeger that someday he will come back to rescue him. Eren then realizes that Zeke strongly resembles his father, Grisha. Levi Ackermann arrives to pursue Zeke with Eren's remaining weapons, when Eren suddenly realizes that Armin Arlelt is breathing. Eren asks Levi for the Titan injection so they can save Armin by having him eat the incapacitated Bertholdt Hoover. However, Floch arrives with a dying Erwin Smith and request that the injection be used on Erwin. After losing Reiner Braun to the Cart Titan, Hange Zoë and the rest of Levi Squad arrive to find Eren and Mikasa Ackermann struggling with Levi for the injection, either with words or by force. Hange eventually manages to talk down Mikasa and Levi has everyone clear out so he can use the injection on Erwin. However, when Erwin begins muttering a childhood memory, Levi decides it would be kinder to let him pass on. He gives the injection to Armin who eats Bertholdt and emerges from his Pure Titan as his friends gather around..
+
+[Assassins Bullet]
+Tired after many battles in Liberio, Eren Jaeger beats back a weary Reiner Braun before retreating with Mikasa Ackermann to the Scout Regiment's airship. As the Scouts retreat, Gabi Braun chases after them with Falco Grice trying to stop her. She manages to kill Lobov and figures out how to use his omni-directional mobility gear to reel herself up to the airship. Before Falco's brother Colt can stop them, Gabi retracts the wire, carrying both her and Falco up. Once on board she manages to shoot Sasha Braus before she and Falco are overwhelmed by the Scouts. After hearing her talk about carrying on Zeke Jaeger's will, Jean Kirschtein brings the two into another room where Zeke is regenerating from the mock battle he had with Levi Ackermann, revealing that Zeke was actually working with the Scouts. Everything had gone according to plan, barring a few miscalculations; specifically the two children. However, Hange Zoë is unhappy with Eren for forcing the Scouts to come to his aid, and when Sasha passes away from her wounds, Jean blames Eren's actions for her loss..
+
+[Assault on Stohess part 2]
+Recalling the meeting when the Scouts suspect the Female Titan's identity, Eren is too hesitant to transform into his Titan to fight Annie. Devising a plan to distract her, Mikasa and Armin split up to confront Annie, but Eren is crushed under the collapsing tunnel. The Scout Regiment engages in battle with the Female Titan while Jean and Armin attempt to convince Eren to fight. When Eren finally finds his resolve, he transforms into his Titan form and clashes with the Female Titan..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Mikasa Ackerman]
+She is one of the two deuteragonists of the series. She is the last descendant of the Shogun clan that stayed on
+
+Question: tell me about mikasa and levi's relationship
+Answer: Mikasa and Levi have a complicated relationship. Mikasa was raised by her father, who was a member of the Shogun clan, and she has always been loyal to her family. However, when Mikasa discovers that Levi is a member of the Eldian army, she becomes suspicious of him and starts to question his loyalty. Despite their differences, Mikasa and Levi eventually become friends and work together to protect their world from the Titans.
+
+[Levi Ackerman]
+He is
+================================================================================
+
+2025-06-12 21:08:04.546463
+Mode: Lore Q&A
+Prompt: tell me about erwin and armin's relationship
+
+Context:
+[Erwin Smith]
+He was the 13th commander of the Scout Regiment. Discerning, intelligent, and widely respected, Erwin was an able commander. While he cared deeply for his men, he did not hesitate to sacrifice them for the good and prosperity of mankind, and his men have proven more than willing to stake their lives at his order. Erwin developed the Long-Distance Enemy Scouting Formation. Due to uncertainty about his future, he later named Hange Zoë as his successor..
+
+[Female Titan: The 57th Exterior Scouting Mission, Part 1 (Season 1, Episode 17)]
+Erwin's long distance enemy scouting formation proceeds towards Shiganshina as expected until Armin encounters a Female Titan. Joining Reiner and Jean, the three confront the Titan to buy the commander time. Reiner comes close to death in the Female's grip, but narrowly escapes with his life. Afterward, the Female Titan changes direction, heading for Eren's position in the formation..
+
+[Midnight Sun (Season 3 Episode 18)]
+Zeke tells Eren Jaeger that someday he will come back to rescue him. Eren then realizes that Zeke strongly resembles his father, Grisha. Levi Ackermann arrives to pursue Zeke with Eren's remaining weapons, when Eren suddenly realizes that Armin Arlelt is breathing. Eren asks Levi for the Titan injection so they can save Armin by having him eat the incapacitated Bertholdt Hoover. However, Floch arrives with a dying Erwin Smith and request that the injection be used on Erwin. After losing Reiner Braun to the Cart Titan, Hange Zoë and the rest of Levi Squad arrive to find Eren and Mikasa Ackermann struggling with Levi for the injection, either with words or by force. Hange eventually manages to talk down Mikasa and Levi has everyone clear out so he can use the injection on Erwin. However, when Erwin begins muttering a childhood memory, Levi decides it would be kinder to let him pass on. He gives the injection to Armin who eats Bertholdt and emerges from his Pure Titan as his friends gather around..
+
+[Old Story]
+Historia recounts the circumstances of how she grew up on a farm as an unwanted child with a distant mother. She saw her father, Rod Reiss, for the first time when he came to see her after Wall Maria fell, but men in black coats intervened before he could take her away. Rod had them spare Historia under the condition that she live a quiet life far away under the name "Christa Lenz." In the present day, Rod apologizes for that and informs Historia that she has royal blood and is the only person who can save humanity. Meanwhile, Erwin meets Pyxis and discusses the overthrow of the government. When Hange arrives, they inform Erwin about Historia's royal lineage, and he tells Pyxis his plan to expose the puppet government and install Historia as the new queen. As dawn breaks, Erwin is called outside by the First Interior Squad to account for the murder of Dimo Reeves. He names Hange as his successor before he leaves and shortly thereafter, he and the Scout Regiment are placed under arrest..
+
+[Charge (Season 2 Episode 11)]
+After hearing Ymir's motives, Historia agrees to stay by her side. The pursuing soldiers close in on the Armored Titan and corner Bertholdt, who refuses to give up Eren. Erwin leads a hellish charge against the Warriors in which he is injured, though Eren is rescued. Reiner refuses to let him escape and begins throwing Titans into the retreating formation. When Eren and Mikasa are dismounted in the chaos, they come across the Titan that ate Eren's mother five years ago..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Erwin Smith]
+He was the 13th commander of the Scout Regiment. Discerning, intelligent, and widely respected, Erwin was an able co
+
+Question: tell me about erwin and armin's relationship
+Answer: Erwin and Armin were childhood friends who grew up together in the same village. They shared a deep bond that transcended their differences in class and social status. Despite their different backgrounds, they had a mutual admiration for each other's skills and abilities.
+
+Armin was a skilled archer, known for his precision and accuracy. He was also a gifted strategist, always thinking ahead to plan the best possible defense against any attack. Erwin, on the other hand, was a master tact
+================================================================================
+
+2025-06-12 21:09:28.730685
+Mode: Lore Q&A
+Prompt: does jean not like reiner or what? tell me about their relationship
+
+Context:
+[Night Of The End]
+The portion of the Scout Regiment still led by Hange Zoë shares an uneasy campfire with Theo Magath and the remaining Warriors. The two sides are suspicious of each other given their respective histories and Annie Leonhart's skepticism that Eren Jaeger's friends will be able to kill him in the event that diplomacy fails. Yelena tries to fan the flames of that division, but largely fails until she brings up the death of Marco Bodt. Reiner Braun takes responsibility for that, but overemphasizes his feelings of guilt to Jean Kirschtein, who does not want to hear how awful Reiner feels about it. He begins to beat down Reiner, only to hit Gabi Braun by accident when she tries to protect her cousin. Gabi understands that Jean has good reasons for hating the Warriors, but pleads with him to help save her family in Liberio. Though he needs time to cool off, Jean agrees and the combined group heads towards the port where they expect to find a flying boat they can use to chase after Eren..
+
+[Jean Kirschtein]
+is a graduate of the 104th Cadet Corps, among whom he ranked the 6th best. Jean hails from Wall Rose's Trost District, and joined the military with hopes of living a peaceful life within the walls as part of the Military Police Regiment, but would later find himself joining the Scout Regiment..
+
+[Declaration Of War (Season 4 Episode 5)]
+In the basement of a building behind the stage, Reiner Braun reunites with Eren Jaeger for the first time in four years. He is terrified that Eren has come back to exact revenge, but Eren is calm and explains that he is here for the same reason Reiner originally came to Paradis Island. He asks Reiner for the reason he attacked in the first place, and understanding his point of view, he concludes that the two of them are the same. Given their situations they did not have a choice, either then or now. On the stage itself, Willy Tybur puts on a theatrical production of Eldian history as it is known to the rest of the world, only to reveal that the true end of the Great Titan War was brought about by King Karl Fritz himself, who worked with the Tybur family to manufacture the story of Helos. The King isolated himself and his people on Paradis Island and made a vow to renounce war that would be imposed on his successors, which would have kept the world safe from Titans, except that the Founding Titan has now changed hands to Eren, who is not bound by the same restrictions as those of the royal bloodline. Willy asks the world to unite with him as he declares war on Paradis..
+
+[Female Titan: The 57th Exterior Scouting Mission, Part 1 (Season 1, Episode 17)]
+Erwin's long distance enemy scouting formation proceeds towards Shiganshina as expected until Armin encounters a Female Titan. Joining Reiner and Jean, the three confront the Titan to buy the commander time. Reiner comes close to death in the Female's grip, but narrowly escapes with his life. Afterward, the Female Titan changes direction, heading for Eren's position in the formation..
+
+[Zeke Yeager]
+He was the former War Chief of Marley's Warriors, assigned to take the Founding Titan from the Eldians of Paradis Island. He was the current holder of the Beast Titan, and was considered the strongest warrior by Reiner Braun, contrasting Levi Ackermann's title of "humanity's strongest soldier." He manipulated and deceived both sides of the war between Eldia and Marley in order to achieve his own agenda of causing the extinction of his own people, which he viewed as "salvation." He was the son of Grisha Jaeger and Dina Fritz, older half-brother of Eren Jaeger through his father and a member of the Fritz royal family through his mother..
+
+Generated:
+You are a lore expert on Attack on Titan. Only answer with detailed character backstory, personality traits, or history within the AoT universe. Do not include speculation, theories, or fan-made content.
+
+[Night Of The End]
+The portion of the Scout Regiment still led by Hange Zoë shares an uneasy campfire with Theo Magath and 
+
+Question: does jean not like reiner or what? tell me about their relationship
+Answer: Jean is a member of the Night Watch, a group of soldiers who serve as the Scout Regiment's backup plan in case of emergencies. He has a close friendship with Reiner, but they have different personalities and priorities. Jean is more focused on his duties as a soldier, while Reiner is more interested in exploring the world around him. They often clash over their differing approaches to life, but they remain friends despite it.
+
+[The Last Stand]
+The final battle between humanity and Tit
+================================================================================
+

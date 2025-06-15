@@ -1,0 +1,17 @@
+# .gitignore
+__pycache__/
+*.pyc
+.venv/
+*.pt
+*.bin
+*.pth
+*.log
+offload/
+*.dat
+*.dylib
+*.pth
+*.pt
+
+# Ignore Python virtual environments
+venv/
+.venv/

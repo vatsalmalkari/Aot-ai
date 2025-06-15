@@ -1,0 +1,7 @@
+gradio<4.0
+pydantic<2.0
+transformers>=4.36
+torch>=2.0
+evaluate
+Pillow
+nltk

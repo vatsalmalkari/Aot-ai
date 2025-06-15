@@ -1,0 +1,33 @@
+name: Deploy to Hugging Face Space
+
+on:
+  push:
+    branches: [main] # or the branch you want to trigger deployment from
+  workflow_dispatch: # Allows you to manually trigger the workflow from GitHub Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Important for Git LFS history
+          lfs: true # Enable Git LFS support
+
+      - name: Configure Git for Hugging Face
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git lfs install
+
+      - name: Add Hugging Face Space as remote
+        run: |
+          git remote add hf https://vatsalm:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/vatsalm/AOT-AI.git
+        env:
+          YOUR_USERNAME: vatsalm
+          YOUR_SPACE_NAME: AOT-AI
+
+      - name: Push to Hugging Face Space
+        run: |
+          git push --force hf main # Pushes your main branch to the 'hf' remote (your Space)

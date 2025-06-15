@@ -1,0 +1,7 @@
+venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.9/site-packages/pyarrow/libarrow.2000.dylib filter=lfs diff=lfs merge=lfs -text
+offload/*.dat filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+path/to/your/specific_large_model_file.safetensors filter=lfs diff=lfs merge=lfs -text
