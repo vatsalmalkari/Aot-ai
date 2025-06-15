@@ -5,3 +5,8 @@ torch>=2.0
 evaluate
 Pillow
 nltk
+flask
+sentence-transformers
+torch # If you use PyTorch
+# ... any other existing packages ...
+faiss-cpu # Add this line
